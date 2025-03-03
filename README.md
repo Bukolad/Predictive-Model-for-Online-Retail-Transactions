@@ -50,6 +50,11 @@ This project aims to develop a predictive model that classifies online retail tr
 - EIRE 263276.820
 - Germany	221698.210
 - France 197403.900
+# VISUALIZATION
+![image](https://github.com/user-attachments/assets/e13b6713-b50a-4151-9c7a-1fdec75dc25c)
+
+
+
 # Data Preprocessing
 - Dropped Irrelevant columns(InvoiceNo, StockCode, Product, InvoiceDate, CustomerID, Quantity, UnitPrice)
 - Encoded Months and Days
