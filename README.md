@@ -53,6 +53,8 @@ This project aims to develop a predictive model that classifies online retail tr
 # VISUALIZATION
 ![image](https://github.com/user-attachments/assets/e13b6713-b50a-4151-9c7a-1fdec75dc25c)
 
+![image](https://github.com/user-attachments/assets/fc472172-6f9e-45ff-9874-fa6c2e260397)
+
 
 
 # Data Preprocessing
