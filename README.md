@@ -65,11 +65,7 @@ This project aims to develop a predictive model that classifies online retail tr
 
 ![image](https://github.com/user-attachments/assets/486051fb-d266-4760-9e78-45733ff80d64)
 
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/5d676ad8-66ad-462a-a9f4-cdbdfaac7d85)
 
 
 # Data Preprocessing
@@ -82,6 +78,11 @@ online_retail["TotalSales"]= online_retail["Quantity"] * online_retail["UnitPric
 # CLUSTERING CUSTOMER SEGMENTATION
 - Calculated Recency as the number of days since last purchase
 - Calculated Frequency as the number of purchase made
+- Grouped Customers with their purchase behaviour (high,medium and low purchases)
+# RECOMMENDATION
+- Geographical : UK dominates in revenue ,
+
+- 
   
 
 
