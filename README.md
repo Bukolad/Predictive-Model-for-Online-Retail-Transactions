@@ -80,9 +80,15 @@ online_retail["TotalSales"]= online_retail["Quantity"] * online_retail["UnitPric
 - Calculated Frequency as the number of purchase made
 - Grouped Customers with their purchase behaviour (high,medium and low purchases)
 # RECOMMENDATION
-- Geographical : UK dominates in revenue ,
+- Geographical : UK dominates in revenue ,but there are good opportunities to grow in Belgium and Spain
+- Pricing Strategy : Business should test different pricing strategies to increase revenue
+- Loyalty : Business should reward loyal customers and provide discount and rewards
+- Product Strategy : High revenue products should be priortized in inventory planning
+- Seasonal : Sales in Nov and December should be leverage with discounts and promotion
 
-- 
+# CONCLUSION
+This projects provides actionable results on customer behaiviour,sales forcasting and optimize inventory management 
+it enable data-driven decison making
   
 
 
